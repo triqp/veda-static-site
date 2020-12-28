@@ -1,4 +1,6 @@
 # veda-static-site
+[VISIT THE WEBSITE HERE!](http://tripp-horbinski.s3-website-us-east-1.amazonaws.com/)
+
 Deploys a [Docusaurus Static Site](https://v2.docusaurus.io/) to an S3 Bucket, enables static webssite hosting and public access to it.
 
 Note: This project is designed for deploying to an AWS account from a local environment. For production use, please consider setting up a CICD pipeline with an appropriate IAM role to deploy following industry best-practices.
