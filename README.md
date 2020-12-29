@@ -1,5 +1,7 @@
 # veda-static-site
-[VISIT THE WEBSITE HERE!](http://tripp-horbinski.s3-website-us-east-1.amazonaws.com/)
+[Visit the S3 static website!](http://tripp-horbinski.s3-website-us-east-1.amazonaws.com/)
+[Visit the CloudFront site with an S3 origin](http://d2we23hvwuip6v.cloudfront.net/)
+[Visit API Gateway](https://ydb1y5phlf.execute-api.us-east-1.amazonaws.com/prod/veda)
 
 Deploys a [Docusaurus Static Site](https://v2.docusaurus.io/) to an S3 Bucket, enables static webssite hosting and public access to it.
 
